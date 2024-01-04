@@ -1,0 +1,13 @@
+<html><head> début de la page 
+<title>Les Amis des Animaux</title> | 
+</head><body><center> | 
+<h2>Membres de l’Association</h2> | 
+<h2>Les Amis des Animaux</h2></center> | 
+<table border width=95%> début du tableau 
+<tr><td>nom de rubrique </td></tr> |ligne d’en-tête 
+<tr> |chaque ligne 
+<td>rubrique</td> |chaque rubrique 
+<td>rubrique</td> | 
+</tr> |fin de la ligne 
+</table> fin du tableau 
+</body></html> fin de la page 
